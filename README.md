@@ -19,13 +19,13 @@ Hey, it's your friendly dev! Welcome to the **Bootstrap Landing Page**, a sleek 
 1️⃣ Clone the Repository:
 
 ```bash
-git clone https://github.com/Aruleeswarangithub/bootstrap-landing-page.git
+git clone https://github.com/Aruleeswarangithub/Bootstrap-Landing-Page.git
 ```
 
 2️⃣ Navigate to the Project Folder:
 
 ```bash
-cd bootstrap-landing-page
+cd Bootstrap-Landing-Page
 ```
 
 3️⃣ Open `index.html` in your Web Browser.
